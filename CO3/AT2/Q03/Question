@@ -1,0 +1,4 @@
+Two images of the same object are taken at different scales and orientations.
+Traditional feature matching fails, but scale invariant feature matching works
+effectively.
+Analyze why scale invariant methods perform better in this scenario.
