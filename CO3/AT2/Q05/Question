@@ -1,0 +1,3 @@
+A system applies PCA aggressively and loses important feature details.
+Analyze the trade-off between dimensionality reduction and information loss, and
+justify optimal component selection.
