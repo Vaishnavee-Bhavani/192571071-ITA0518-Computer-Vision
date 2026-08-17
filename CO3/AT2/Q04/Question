@@ -1,0 +1,4 @@
+A tracking system uses edge detection but fails to track moving objects accurately
+across frames.
+Analyze why edges are insufficient and justify the use of corner detection for reliable
+tracking.
