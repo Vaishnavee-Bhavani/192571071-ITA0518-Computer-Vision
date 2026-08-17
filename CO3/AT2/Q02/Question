@@ -1,0 +1,4 @@
+A face recognition system processes high-dimensional image data, resulting in slow
+performance.
+Analyze how PCA helps in reducing dimensionality while preserving important
+features.
